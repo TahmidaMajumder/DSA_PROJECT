@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1706413033 source:e:\tds_lab\demo project\vending machine project\vending machine\mainmenu.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<conio.h>
+	"classfile.h"
+
+1706439813 source:e:\tds_lab\demo project\vending machine project\vending machine\adminfunction.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<limits>
+	"classfile.h"
+
+1706424191 e:\tds_lab\demo project\vending machine project\vending machine\classfile.h
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1706415242 source:e:\tds_lab\demo project\vending machine project\vending machine\both.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"classfile.h"
+
+1706440625 source:e:\tds_lab\demo project\vending machine project\vending machine\userfunction.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<limits>
+	"classfile.h"
+
+1706356976 source:e:\tds_lab\demo project\vending machine project\vending machine\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"classfile.h"
+
+1711017494 source:e:\all projects\vending machine\adminfunction.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<limits>
+	"classfile.h"
+
+1711017494 e:\all projects\vending machine\classfile.h
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1711017494 source:e:\all projects\vending machine\both.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"classfile.h"
+
+1711017494 source:e:\all projects\vending machine\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"classfile.h"
+
+1711017494 source:e:\all projects\vending machine\mainmenu.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<conio.h>
+	"classfile.h"
+
+1711017494 source:e:\all projects\vending machine\userfunction.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<limits>
+	"classfile.h"
+
